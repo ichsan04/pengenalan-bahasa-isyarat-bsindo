@@ -1,0 +1,12 @@
+# Dataset
+dataset/
+
+# Virtual Environment
+venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
